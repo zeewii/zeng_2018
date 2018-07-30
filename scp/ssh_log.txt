@@ -1,0 +1,1 @@
+2015-09-28 13:47:29.057329 mv /etc/version/wifidog /etc/version/wifidog_backup
