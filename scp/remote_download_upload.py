@@ -26,5 +26,5 @@ if __name__ == "__main__":
     user = 'root'
     password = 'BHU@100msh$%^'
     dir = '/home/zeng/wifdog'
-    content = ['3\n']
+    #content = ['3\n']
     remote_download(ip,user,password,filename,dir)

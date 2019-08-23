@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/../GWN76xx_regressiontest" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../GWN_Cloud_regressiontest" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/GWN76xx_regressiontest" vcs="Git" />
+    <mapping directory="$USER_HOME$/PycharmProjects/zeng_2018" vcs="Git" />
   </component>
 </project>

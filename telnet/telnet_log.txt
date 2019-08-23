@@ -1,0 +1,21 @@
+2019-06-14 13:44:32.890793 show arp
+       IP Address      MAC Address   Interface  Type  Expire(secs)   Port
+     1 192.168.1.1     4ce6.76cc.006e vlanif1    dynamic   1170      ge14
+     2 192.168.1.80    00e0.4c68.7c9d vlanif1    dynamic   1180      ge14
+     3 192.168.1.88    408d.5c86.3aa1 vlanif1    dynamic   1195      ge14
+2019-06-14 13:45:42.020057 show arp
+       IP Address      MAC Address   Interface  Type  Expire(secs)   Port
+     1 192.168.1.1     4ce6.76cc.006e vlanif1    dynamic   1180      ge14
+     2 192.168.1.80    00e0.4c68.7c9d vlanif1    dynamic   1170      ge14
+     3 192.168.1.88    408d.5c86.3aa1 vlanif1    dynamic   1195      ge14
+2019-06-14 13:49:41.688767 show arp
+       IP Address      MAC Address   Interface  Type  Expire(secs)   Port
+     1 192.168.1.1     4ce6.76cc.006e vlanif1    dynamic   1200      ge14
+     2 192.168.1.80    00e0.4c68.7c9d vlanif1    dynamic   1175      ge14
+     3 192.168.1.88    408d.5c86.3aa1 vlanif1    dynamic   1125      ge14
+Switch2019-06-14 13:50:11.989676 show arp
+       IP Address      MAC Address   Interface  Type  Expire(secs)   Port
+     1 192.168.1.1     4ce6.76cc.006e vlanif1    dynamic   1195      ge14
+     2 192.168.1.80    00e0.4c68.7c9d vlanif1    dynamic   1140      ge14
+     3 192.168.1.88    408d.5c86.3aa1 vlanif1    dynamic   1090      ge14
+Switch

@@ -16,11 +16,11 @@ def ssh_command(ip,username,passwd,cmd):
             out = stdout.readlines()
             #屏幕输出
             for o in out:
-                print o,
+                print(o,)
 
         ssh.close()
     except :
-        print '%s\tError\n'%(ip)
+        print('%s\tError\n'%(ip))
 
 
 if __name__ == '__main__':
